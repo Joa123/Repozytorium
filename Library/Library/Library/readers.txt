@@ -1,0 +1,5 @@
+1;Asia;Stefasia;2;
+2;Radek;Tadek;
+3;Rafal;Fafal;4;
+4;Kuba;Buba;
+5;Ania;Bania;

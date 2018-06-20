@@ -1,0 +1,5 @@
+1;asia;asiek
+2;radek;bezhasla
+3;rafal;maslo
+4;kuba;dreju
+5;ania;mania

@@ -1,0 +1,10 @@
+1;Mickiewicz Adam;Pan Tadeusz;2010;T
+2;Sienkiewicz Henryk;W pustyni i w puszczy;2005;T
+3;Hemingway Ernest;Komu bije dzwon;2001;T
+4;Sienkiewicz Henryk;Potop;2013;T
+5;Prus Boleslaw;Lalka;2002;T
+6;Brown Dan;Kod Leonarda da Vinci;2012;T
+7;Lindgren Astrid;Dzieci z Bullerbyn;2017;T
+8;Grahame Kenneth;O czym szumia wierzby;1999;T
+9;Dostojewski Fiodor;Zbrodnia i kara;2000;T
+10;Mitchell David;Atlas chmur;1997;T
