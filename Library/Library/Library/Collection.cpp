@@ -5,7 +5,7 @@
 #include <fstream>
 
 
-Collection::Collection()
+Collection::Collection()//to jest konstruktor
 {
 }
 
